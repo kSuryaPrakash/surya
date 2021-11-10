@@ -6,3 +6,5 @@ thanks
 bye
 im updating this to new version
 its version 1.0
+now im editing this file in git bash
+please allow it
